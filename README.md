@@ -10,7 +10,7 @@ This code demonstrates how to calculate and visualize various centrality metrics
 This code provides an example of how to implement the Erdős Rényi and Small world graphs models using NetworkX and visualize the resulting graph.  
 
 ## Graph_Network_Analysis.ipynb  
-This code creates an undirected graph 'G', adds weighted edges to the graph, and visualizes the graph.After that, the code performs various operations on the graph including calculating the degree distribution, the adjacency matrix, the Laplacian matrix, the shortest path between nodes, the average shortest path length using, the betweenness centrality, and calculating the clustering coefficient.The code also calculates the global and local efficiency of the graph.
+This code creates an undirected graph 'G', adds weighted edges to the graph, and visualizes the graph. After that, the code performs various operations on the graph including calculating the degree distribution, the adjacency matrix, the Laplacian matrix, the shortest path between nodes, the average shortest path length using, the betweenness centrality, and calculating the clustering coefficient.The code also calculates the global and local efficiency of the graph.
 
 ## Klemm_Eguilez.ipynb  
 This code provides an example of how to implement the Klemm_Eguilez model using NetworkX and visualize the resulting graph.  
