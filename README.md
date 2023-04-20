@@ -7,7 +7,7 @@ This code provides an example of how to implement the Barabasi-Albert model usin
 This code demonstrates how to calculate and visualize various centrality metrics on two benchmark networks, the Karate club and LFR benchmarks. The implemented centrality metrics include Degree, Closeness, Betweenness, and Clustering Coefficient, Eigenvector and Pagerank.The code is implemented using the NetworkX library and provides a helpful example for those interested in network analysis and visualization in Python.
 
 ## Erdős–Rényi_and_Small_world.ipynb  
-these code examples provide a basic introduction to the creation of Erdős Rényi and Small world graphs using different methods in NetworkX.
+This code provides an example of how to implement the Erdős Rényi and Small world graphs models using NetworkX and visualize the resulting graph.  
 
 ## Graph_Network_Analysis.ipynb  
 in this code we create an undirected graph 'G', adds weighted edges to the graph, and visualizes the graph.After that, the code performs various operations on the graph including calculating the degree distribution, the adjacency matrix, the Laplacian matrix, the shortest path between nodes, the average shortest path length using, the betweenness centrality, and calculating the clustering coefficient.The code also calculates the global and local efficiency of the graph.
